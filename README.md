@@ -10,3 +10,7 @@ Scenario 2 - Inactive Activity code
 <br>
 Do not forget to add the full scenarios from the search
 <br>
+
+## Docs
+ - [Chat Modes](https://code.visualstudio.com/docs/copilot/customization/custom-chat-modes) 
+ - [Prompt Files](https://code.visualstudio.com/docs/copilot/customization/prompt-files)
